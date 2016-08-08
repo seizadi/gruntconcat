@@ -1,0 +1,9 @@
+{
+  "name": "junk-project",
+  "version": "0.1.0",
+  "devDependencies": {},
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1"
+  }
+}
